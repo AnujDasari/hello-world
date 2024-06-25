@@ -5,21 +5,21 @@ public class HelloWorld {
 		HelloWorld hw = new HelloWorld();
 		hw.displayMessage();
 	}
-	
+
 	public void displayMessage() { // changes made by developer2 and developer1
 		System.out.println("Hello All...Welcome!");
 	}
 
-	// commented out by dev2
+	// commented out by dev1 and dev2
 //	public int add(int a, int b) {
 //		return a+b;
 //	}
-	
+
 	public int add(int a, int b) {
 		int sumOfNumbers = a + b;
 		return sumOfNumbers;
 	}
-	
-	//cc1
-	//cc2
+
+	// cc1
+	// cc2
 }
