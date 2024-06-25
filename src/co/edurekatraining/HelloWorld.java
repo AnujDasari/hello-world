@@ -10,9 +10,10 @@ public class HelloWorld {
 		System.out.println("Hello All...Welcome!");
 	}
 
-	public int add(int a, int b) {
-		return a+b;
-	}
+	// commented out by dev2
+//	public int add(int a, int b) {
+//		return a+b;
+//	}
 	
 	public int add(int a, int b) {
 		int sumOfNumbers = a + b;
