@@ -9,6 +9,10 @@ public class HelloWorld {
 	public void displayMessage() { // changes made by developer2 and developer1
 		System.out.println("Hello All...Welcome!");
 	}
+
+	public int add(int a, int b) {
+		return a+b;
+	}
 	
 	//cc1
 	//cc2
