@@ -14,6 +14,11 @@ public class HelloWorld {
 		return a+b;
 	}
 	
+	public int add(int a, int b) {
+		int sumOfNumbers = a + b;
+		return sumOfNumbers;
+	}
+	
 	//cc1
 	//cc2
 }
