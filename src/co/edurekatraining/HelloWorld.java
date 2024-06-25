@@ -6,7 +6,7 @@ public class HelloWorld {
 		hw.displayMessage();
 	}
 	
-	public void displayMessage() {
+	public void displayMessage() { // changes made by developer2
 		System.out.println("Hello All...Welcome!");
 	}
 	
